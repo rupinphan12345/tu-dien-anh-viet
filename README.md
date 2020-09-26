@@ -10,6 +10,12 @@
 
 * Implementation on C/C++ programming language.
 
+# Dataset Source
+
+* [en-to-vi.csv](https://www.kaggle.com/flightstar/english-vietnamese-dataset)
+
+* [vi-to-en.csv](https://www.kaggle.com/flightstar/vietnamese-english-dataset)
+
 # Directory Structure
 
 ```
