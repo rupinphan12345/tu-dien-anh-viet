@@ -24,14 +24,20 @@ tu-dien-anh-viet
 |   CMakeLists.txt
 |   notes.txt
 |   README.md
+|   project-structure.txt
 |   
 +---bin
 +---build
 +---data
+|       en-to-vi.csv
+|       vi-to-en.csv
+|       
 +---includes
 +---libs
 \---src
 ```
+
+<div style="text-align: right">View raw [here](https://raw.githubusercontent.com/ductoanvo/tu-dien-anh-viet/master/project-structure.txt)</div>
 
 # Authors
 * [Duc Toan Vo](https://ductoan.dev) 
