@@ -1,5 +1,0 @@
-04:14 PM 26/09/2020 
-	#TODO: Tìm file từ điển có ít nhất 120k từ 
-	#TODO: Tiền xử lý file 
-09:56 PM 26/09/2020
-	#DONE: Đã có file từ điển
