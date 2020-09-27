@@ -1,0 +1,16 @@
+tu-dien-anh-viet
+|   .gitignore
+|   CMakeLists.txt
+|   notes.txt
+|   README.md
+|   project-structure.txt
+|   
++---bin
++---build
++---data
+|       en-to-vi.csv
+|       vi-to-en.csv
+|       
++---includes
++---libs
+\---src
