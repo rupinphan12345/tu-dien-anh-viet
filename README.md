@@ -37,7 +37,7 @@ tu-dien-anh-viet
 \---src
 ```
 
-<div style="text-align: center">View raw <a href = "https://raw.githubusercontent.com/ductoanvo/tu-dien-anh-viet/master/project-structure.txt">here</a></div>
+<p align = "center">View raw <a href = "https://raw.githubusercontent.com/ductoanvo/tu-dien-anh-viet/master/project-structure.txt">here</a></p>
 
 # Authors
 * [Duc Toan Vo](https://ductoan.dev) 
