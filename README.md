@@ -44,4 +44,4 @@ tu-dien-anh-viet
 * [Dinh Nhat Phan](https://github.com/rupinphan12345)
 * Hong Ha Phan
 * [Hoan Huu Nguyen](https://github.com/nguyenhoanhuu)
-* Minh Gau
+* [Minh Gau](https://github.com/monnumon)
