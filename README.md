@@ -4,11 +4,11 @@
 
 # Requirements
 
-* English - Vietnamese dictionary has 120,000 entries. Each entry contains the following information: Root words, kind words, meanings and possibly an example of the corresponding meaning.
+English - Vietnamese dictionary has 120,000 entries. Each entry contains the following information: Root words, kind words, meanings and possibly an example of the corresponding meaning.
 
-* Dictionary lookup is performed in real time, so users don't want to wait long before receiving results. It is necessary to organize the data structure and choose the right algorithm to meet this requirement.
+Dictionary lookup is performed in real time, so users don't want to wait long before receiving results. It is necessary to organize the data structure and choose the right algorithm to meet this requirement.
 
-* Implementation on C/C++ programming language.
+Implementation on C/C++ programming language.
 
 # Dataset Source
 
